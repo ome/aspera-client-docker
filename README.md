@@ -1,6 +1,8 @@
 Aspera client
 =============
 
+[![Actions Status](https://github.com/ome/aspera-client-docker/workflows/Build/badge.svg)](https://github.com/ome/aspera-client-docker/actions)
+
 Aspera client. `ascp` is set as the entrypoint.
 
 Build:
